@@ -2,9 +2,9 @@ version: '3.7'
 
 services:
 
-  memegen:
-    container_name: memegen
+  cvgen:
+    container_name: cvgen
     build:
       context: .
     ports:
-      - 3002:3000
+      - 3003:3000

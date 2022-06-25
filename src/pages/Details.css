@@ -1,0 +1,52 @@
+h1 {
+  margin: 0;
+  margin-right: 1rem;
+}
+
+.textNinputDiv {
+  display: flex;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.textInputs {
+  width: 19rem;
+  font-size: 1.6rem;
+  border: 2px solid rgb(102, 10, 10);
+  border-radius: 4px;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.longTextInputs {
+  width: 80rem;
+  height: 6rem;
+  font-size: 1.6rem;
+  border: 2px solid rgb(102, 10, 10);
+  border-radius: 9px;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.headlineContainer {
+  text-align: center;
+}
+
+.btnDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.submitBtn {
+    margin-top: 1rem;
+    background-color: rgb(195, 241, 255);
+    border-radius: 9px;
+    border: 2px solid #dd6a8e;
+    padding: 9px;
+    margin-bottom: 2rem;
+}
+
+.shorInputsContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
